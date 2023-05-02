@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "Duplicate Tab",
+        "description": "The name of the extension, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "Simple extension to assign a keyboard shortcut to the duplicate tab action.",
+        "description": "The description of the extension, displayed in the web store."
+    },
+    "appTooltip": {
+        "message": "Duplicate current tab",
+        "description": "The tooltip for the extension, displayed when hovering the extension icon."
+    }
+}
